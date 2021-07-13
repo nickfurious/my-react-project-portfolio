@@ -1,0 +1,141 @@
+{
+  "main": {
+    "name": "Nicholas Hale",
+    "occupation": "Chef/Sushi/Cook/Rockstar Developer",
+    "description": "I eat, sleep and breathe React",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Nick! A funny guy with a sharp eye for design. I've been coding for over 2 years now. A hard worker with good work ethic, I have studied Full Stack Development. Using technologies such as: HTML, CSS, Javascript, ReactJs, Figma. As my career as a chef I strated building cooking videos for my social media content as well as lofi hiphop videos. Along the journey I realised my passion existed in coding and my eye for design. With this passion, I have now built over 30 apps and websites. Through live coaching sessions with Clever Programmer, Udemy courses, and videos on Youtube. I have accumulated several thousand views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by showcasing REAL WORLD projects to enter the world of web development.",
+    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
+    "email": "datfuriouskid@live.com",
+    "phone": "323-474-2786",
+    "address": {
+      "street": "2211 Pacific Beach Drive",
+      "city": "San Diego",
+      "state": "California",
+      "zip": "92109"
+    },
+    "website": "",
+    "resumedownload": "https://www.figma.com/file/bxbiHr17fN2ivyDqxEBjph/MyCV?node-id=0%3A1",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/nicholas.hale.54966",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/nicholas-hale-42a856b1/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/chefnicholashale/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/nickfurious",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Tools Proficiency",
+    "education": [
+      {
+        "school": "Clever Programmer",
+        "degree": "Full Stack Mastery Bootcamp",
+        "graduated": "March Cohort 2021",
+        "description": "Javascript Full Stack Course"
+      },
+      {
+        "school": "Clever Programmer",
+        "degree": "Profit with Javascript",
+        "graduated": "September Cohort 2020",
+        "description": "Javascript course"
+      }
+    ],
+    "work": [
+      {
+        "company": "Udemy Courses",
+        "title": "Javascript/ReactJS",
+        "years": "June 2019 - Present",
+        "description": "Cloning all the apps possible. On the way to clone the world! Building everything I can, VanillaJs or ReactJs, or Figma"
+      },
+      {
+        "company": "Awwwards Academy",
+        "title": "UI/UX courses",
+        "years": "May 2021 - Present",
+        "description": "Building everything I can, realated to UI/UX"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "40%"
+      },
+      {
+        "name": "HTML/CSS",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "30%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "50%"
+      },
+      {
+        "name": "Figma",
+        "level": "75%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "WhatsApp2.0 (React.JS + Next.js)",
+        "category": "",
+        "image": "whatsuphomie.jpeg",
+        "url": "https://whatsuphomie.vercel.app/"
+      },
+      {
+        "title": "WhatsApp (React JS)",
+        "category": "",
+        "image": "whatApp.jpg",
+        "url": "https://youtu.be/b7nrXjS6Dqs"
+      },
+      {
+        "title": "BitCoin Design (Figma)",
+        "category": "",
+        "image": "figmaChart.jpg",
+        "url": "https://www.figma.com/file/BIvxLb3gPOHQfyVQmoERaz/chart?node-id=0%3A1"
+      },
+      {
+        "title": "NextJS SearchBar",
+        "category": "",
+        "image": "Searchbar.jpg",
+        "url": "https://wizardly-nobel-443274.netlify.app/"
+      },
+      {
+        "title": "Data Structure (StackBlitz)",
+        "category": "",
+        "image": "dataStructure.jpg",
+        "url": "https://stackblitz.com/edit/doubly-linked-list-js"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Nicholas is persistent and determined in achieving his goal to become a professional software developer. He shows grit, asks the right questions, puts in the work, resourceful and is independent at the same time too",
+        "user": "Jessy The (Instructor CleverProgrammer)"
+      },
+      {
+        "text": "Nicholas' passion for software development is clear and powerful. He is incredibly driven, inquisitive and observant and it shows in his work. It was an absolute pleasure working with him",
+        "user": "Sarah Russel/Illustrator"
+      }
+    ]
+  }
+}
