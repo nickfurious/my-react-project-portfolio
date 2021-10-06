@@ -123,6 +123,12 @@
         "category": "",
         "image": "dataStructure.jpg",
         "url": "https://stackblitz.com/edit/doubly-linked-list-js"
+      },
+      {
+        "title": "Comic Landing Page (StackBlitz)",
+        "category": "",
+        "image": "comic+.jpeg",
+        "url": "https://comic-landing.vercel.app/"
       }
     ]
   },
