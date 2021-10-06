@@ -1,12 +1,12 @@
 {
   "main": {
     "name": "Nicholas Hale",
-    "occupation": "Chef/Sushi/Cook/Rockstar Developer",
+    "occupation": "Chef/Sushi/Cook/Rockstar Developer/Content Creator",
     "description": "I eat, sleep and breathe React",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Nick! A funny guy with a sharp eye for design. I've been coding for over 2 years now. A hard worker with good work ethic, I have studied Full Stack Development. Using technologies such as: HTML, CSS, Javascript, ReactJs, Figma. As my career as a chef I strated building cooking videos for my social media content as well as lofi hiphop videos. Along the journey I realised my passion existed in coding and my eye for design. With this passion, I have now built over 30 apps and websites. Through live coaching sessions with Clever Programmer, Udemy courses, and videos on Youtube. I have accumulated several thousand views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by showcasing REAL WORLD projects to enter the world of web development.",
+    "bio": "Hi there! I am Nick! A funny guy with a sharp eye for design. I've been coding for about 2-3 years now. A hard worker with good work ethic, I have studied Full Stack Development. Using technologies such as: HTML, CSS, Javascript, ReactJs, Figma. As my career as a chef I strated building cooking videos for my social media content as well as lofi hiphop videos. Along the journey I realised my passion existed in coding and my eye for design. With this passion, I have now built over 30 apps and websites. Through live coaching sessions with Clever Programmer, Udemy courses, and videos on Youtube. I have accumulated several thousand views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by showcasing REAL WORLD projects to enter the world of web development.",
     "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "datfuriouskid@live.com",
+    "email": "nicholashale9@gmail.com",
     "phone": "323-474-2786",
     "address": {
       "street": "2211 Pacific Beach Drive",
@@ -60,7 +60,7 @@
         "company": "Udemy Courses",
         "title": "Javascript/ReactJS",
         "years": "June 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building everything I can, VanillaJs or ReactJs, or Figma"
+        "description": "Cloning all the apps possible. On the way to clone the world! Building everything I can, VanillaJs or ReactJs, or Figma, now moving into Flutter mobile development."
       },
       {
         "company": "Awwwards Academy",
